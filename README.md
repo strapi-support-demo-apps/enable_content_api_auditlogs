@@ -1,6 +1,12 @@
-# 🚀 Getting started with Strapi
+# Introduction
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
+This project shows you how to setup audit logs for the content-API. We will be utilizing the [event hub](https://contributor.strapi.io/docs/core/strapi/event-hub) that is built into Strapi which streams all event's that occur in your application.
+
+## Requirements 🚨
+
+1. Ensure that you have a valid enterprise license to test this project.
+
+# 🚀 Getting started with This Project
 
 ### `develop`
 
